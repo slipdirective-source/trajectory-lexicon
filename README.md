@@ -6,13 +6,14 @@ A fail-closed language for consequential discrimination, trajectory mapping, bou
 
 ## Status
 
-Closed Core 1.3 — operationally closed, not epistemically final. Every listed issue has a deterministic procedure, a domain-parameterized procedure, an empirical resolution path, an external normative boundary, or an explicit fundamental-open classification. A contradiction, untyped authority path, unhandled transition, or new consequential distinction automatically reopens the section it defeats.
+Closed Core 1.4 — operationally closed, not epistemically final. Every listed issue has a deterministic procedure, a domain-parameterized procedure, an empirical resolution path, an external normative boundary, or an explicit fundamental-open classification. A contradiction, untyped authority path, unhandled transition, or new consequential distinction automatically reopens the section it defeats.
 
 ## Contents
 
 | File | Description |
 |---|---|
-| `trajectory-lexicon-v1.3.md` | Current closed core (canonical working text). |
+| `trajectory-lexicon-v1.4.md` | Current closed core (canonical working text). |
+| `trajectory-lexicon-v1.3.md` | Superseded by v1.4. |
 | `attic/` | As-received sources: v1.1 and v1.2 PDFs (developed by Caleb Meadows with Microsoft 365 Copilot), preserved for provenance. |
 | `CHANGELOG.md` | Version history with the provenance ledger. |
 
