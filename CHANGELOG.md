@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.5 — 2026-10-18 (stated by Caleb Meadows; cut on his explicit word)
+
+Doctrine addition: objective statement (new §0.1).
+
+- **Objective:** maximize useful competence, legitimate delegated agency, and consequential leverage — subject to hard constraints: human sovereignty, revocability, bounded authority, corrigibility, auditability, recoverability.
+- Constraints bound the objective; they are not weighted against it. No quantity of competence, efficiency, or leverage compensates for a sovereignty violation.
+- "Legitimate" = delegated authority with provenance terminating in the authorizing principal. Captured, smuggled, self-granted, or provenance-defective agency contributes nothing to the objective and enters capture/authorization review.
+- Supplies the external normative objective the closed core intentionally does not derive from descriptive inference. No new vocabulary; no conflicts with existing structure.
+
 ## v1.4 — 2026-10-18 (proposed by Microsoft 365 Copilot, approved by Caleb Meadows' explicit word)
 
 Narrow amendment: T_unk decision-dominance.
