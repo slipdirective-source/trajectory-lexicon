@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.4 — 2026-10-18 (proposed by Microsoft 365 Copilot, approved by Caleb Meadows' explicit word)
+
+Narrow amendment: T_unk decision-dominance.
+
+- **T_unk redefined (§13):** unresolved exposure is decision-dominant iff at least one admissible resolution of that uncertainty changes the current admissibility outcome. Unresolved exposure remains represented whether or not decision-dominant; non-decision-dominant uncertainty does not independently block execution.
+- **Depends(I,U) demoted:** dependency is necessary recorded information, not the blocking discriminator. The governing property is counterfactual sensitivity of the admissibility decision to admissible resolutions of U (battery case A5b was the demonstration).
+- §20 closure matrix annotated with the operative criterion. Battery A5a/A5b/A5c normative against this definition.
+
 ## v1.3 — 2026-10-17 (Muse, per Caleb Meadows' audit docket)
 
 Gap-fill revision. All changes logged in the provenance ledger at the head of the v1.3 document.
